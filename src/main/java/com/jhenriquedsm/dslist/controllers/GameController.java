@@ -2,7 +2,6 @@ package com.jhenriquedsm.dslist.controllers;
 
 import com.jhenriquedsm.dslist.dto.GameDTO;
 import com.jhenriquedsm.dslist.dto.GameMinDTO;
-import com.jhenriquedsm.dslist.entities.Game;
 import com.jhenriquedsm.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
